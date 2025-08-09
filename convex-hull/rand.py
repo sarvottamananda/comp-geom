@@ -3,4 +3,9 @@
 import random
 
 for i in range (1,17) :
-    print('%4.2f' % random.random(), '%4.2f' % random.random())
+    while (True) :
+        x = random.random() * 9.9 - 5
+        y = random.random() * 9.9 - 5
+        if (x*x + y*y < 25) :
+            break
+    print ('%3.1f ' % (x + 5) , '%3.1f' % (y + 5))
