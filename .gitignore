@@ -1,6 +1,12 @@
 # ---> local
 
+# Meson build directory
 build/
+
+# Vim swap files
+*~
+.*.swp
+.*.swo
 
 # ---> C
 # Prerequisites
