@@ -1,8 +1,8 @@
 - 👋 Computational Geometry Course
-- 👀 Programming Assignments
-- 🌱 2025-26 Sem I
-- 💞️ Swami Sarvottamananda
-- 📫 RKMVERI
+- 👀 Swami Sarvottamananda
+- 🌱 Programming Assignments
+- 💞️ RKMVERI 
+- 📫 2025-26 Sem I
 
 
 Programming Assignments
