@@ -7,15 +7,15 @@
 
 Programming Assignments
 
-1. (Week 1) Affine testing of points, coincident, collinear, etc.
-1. (Week 2) Convex polygon testing
-1. (Week 3) Point inclusion testing in simple polygons
-1. (Week 4) Convex hull computing
-1. (Week 5) Point inclusion testing in convex polygons
-1. (Week 6) Reporting segment intersections in place.
-1. (Week 7) Implementing doubly-connected edge list data structure, and counting vertices, edges and faces.
-1. (Week 8) Triangulating a simple polygon by finding ears
-1. (Week 9) Triangulating a y-monotone simple polygon
+- (Week 1) Affine testing of points, coincident, collinear, etc.
+- (Week 2) Convex polygon testing
+- (Week 3) Point inclusion testing in simple polygons
+- (Week 4) Convex hull computing
+- (Week 5) Point inclusion testing in convex polygons
+- (Week 6) Reporting segment intersections in place.
+- (Week 7) Implementing doubly-connected edge list data structure, and counting vertices, edges and faces.
+- (Week 8) Triangulating a simple polygon by finding ears
+- (Week 9) Triangulating a y-monotone simple polygon
 
 
 <!---
